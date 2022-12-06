@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    display: flex;
+    background-color:#1b012a;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    overflow-x: hidden;
+}
+h1{
+    position: absolute;
+    top: 10em;
+    left: 5em;
+    color: aqua;
+}
+h2{
+    position: absolute;
+    top: 5em;
+    left: -5em;
+    color: rgb(9, 255, 0);
+}
